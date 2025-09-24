@@ -28,15 +28,15 @@
 #*.pdb.meta
 
 # Unity3D Generated File On Crash Reports
-sysinfo.txt
+#sysinfo.txt
 
 # Builds
-*.apk
-*.aab
-*.unitypackage
+#*.apk
+#*.aab
+#*.unitypackage
 
 # Crashlytics generated file
-crashlytics-build.properties
+#crashlytics-build.properties
 
 # VS Code specific files
 .vscode/
